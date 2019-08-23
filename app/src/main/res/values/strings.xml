@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Penghitung</string>
+    <string name="volume">Hitung Volume Persegi Panjang</string>
+    <string name="pbalok">Masukan Panjang dari Persegi Panjang</string>
+    <string name="plebar">Masukan Lebar dari Persegi Panjang</string>
+    <string name="ptinggi">Masukan Tinggi dari Persegi Panjang</string>
+    <string name="volumeb">Volume Balok</string>
+    <string name="panjangb">Masukan panjang dari Balok</string>
+    <string name="lebarb">Masukan Lebar dari Balok</string>
+    <string name="tinggib">Masukan Tinggi dari Balok</string>
+    <string name="hitung">Mulai Hitung</string>
+    <string name="psegitiga">Keliling Alas Prisma Segitiga</string>
+    <string name="sisi2">Masukan Sisi kedua</string>
+    <string name="sisi3">Masukan Sisi Ketiga</string>
+    <string name="app_nama">Gerak</string>
+    <string name="jarakt">Menghitung Jarak ditempuh</string>
+    <string name="waktut">Mencari Waktu Tempuh</string>
+    <string name="jarak">Masukan Kecepatan</string>
+    <string name="jarak2">Masukan waktu tempuh</string>
+    <string name="whitung">HITUNG</string>
+    <string name="thitung">HITUNG</string>
+</resources>
